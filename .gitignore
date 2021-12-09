@@ -25,4 +25,6 @@ typechain
 
 #Hardhat files
 cache
+/cache
 artifacts
+./src/artifacts
